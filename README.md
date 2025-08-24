@@ -22,5 +22,5 @@
 - Advanced networking & system administration skills  
 
 ## 📫 Contact
-- LinkedIn: [Your Link]  
+- LinkedIn: linkedin.com/in/belfaqir-ilyasse
 - Email: belfaqirilyasse03@gmail.com
